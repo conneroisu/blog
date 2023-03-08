@@ -1,0 +1,461 @@
+---
+
+kanban-plugin: basic
+created: 2023-02-26T19:07:25-06:00
+updated: 2023-03-03T22:16:19-06:00
+
+---
+
+## Skills List
+
+- [ ] LSP Servers - LSP stands forLanguage Server Protocol, which enables the development of language-specific tools that provide rich language features like code completion, error detection, and more.
+- [ ] Git - a version control system used for tracking changes in source code during software development.
+- [ ] Agile Methodologies - a set of values and principles for software development that prioritize customer satisfaction, continuous delivery, and collaboration between team members.
+- [ ] Test-Driven Development - a software development process that emphasizes writing automated tests before writing the actual code to ensure that the code meets the required specifications.
+- [ ] Continuous Integration/Continuous Delivery (CI/CD) - a practice of integrating code changes frequently into a shared repository and testing them automatically to ensure that they are ready for release.
+- [ ] Cloud Computing Platforms (e.g., AWS, Azure) - cloud-based services that provide on-demand computing resources like servers, storage, databases, networking, and more.
+- [ ] DevOps Tools (e.g., Docker, Kubernetes) - tools used in DevOps practices to automate the deployment of applications across various environments.
+- [ ] Programming Languages (e.g., Java, Python) - languages used for writing software programs to solve specific problems.
+- [ ] Database Management Systems (e.g., MySQL, PostgreSQL) - software systems used to manage large amounts of data efficiently.
+- [ ] Programming Languages (e.g., Python, Java, JavaScript) - ability to write code in various programming languages to develop software applications and automate processes.
+- [ ] Cloud Platforms (e.g., AWS, Azure, Google Cloud) - knowledge of cloud computing services, infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS).
+- [ ] Data Analysis Tools (e.g., Excel, Tableau, Power BI) - proficiency in using data analysis tools to extract insights from complex data sets.
+- [ ] Agile Methodologies (e.g., Scrum, Kanban) - familiarity with agile methodologies used in software development and project management.
+- [ ] Software Development Tools (e.g., Git, JIRA, Visual Studio) - familiarity with software development tools used for version control, issue tracking, and collaboration.
+- [ ] Project Management Tools (e.g., Jira, Trello) - tools used to manage projects effectively by tracking tasks and progress throughout the project lifecycle.
+- [ ] Github CoPilot -
+- [ ] memory system
+- [ ] Memory less systems
+- [ ] Interpreter Programming Language
+- [ ] Pointers
+- [ ] Polymorphism
+- [ ] C Programming Language
+- [ ] Svelte Components
+- [ ] Static Websites
+- [ ] JVM
+- [ ] Inheiritance
+- [ ] .zip files
+- [ ] .pdf files
+- [ ] .exe files
+- [ ] Spice
+- [ ] .sch files
+- [ ] .js files
+- [ ] .bat files
+- [ ] .py files
+- [ ] .ts files
+- [ ] .tsx files
+- [ ] .svelte files
+- [ ] .md file
+- [ ] .net files
+- [ ] .m files
+- [ ] .mov files
+- [ ] .mp4 files
+- [ ] .jpeg files
+- [ ] .png files
+- [ ] Dirac Delta Function
+- [ ] Unit Step Functions
+- [ ] Ramp Functions
+- [ ] Convolutions
+- [ ] Exponential Mathmatics
+- [ ] Emi Rafiation
+- [ ] Automated GitHub Actions
+- [ ] Signal Classification
+- [ ] Lab Experiments
+- [ ] Image Sorting
+- [ ] writing emails
+- [ ] Serial Communication
+- [ ] I2C Adresses
+- [ ] Receiving RF Signals
+- [ ] RF Propagation
+- [ ] Blender Simulations
+- [ ] Gazebo Simulation
+- [ ] ROS
+- [ ] ROS2
+- [ ] Power Distribution
+- [ ] Power Generation
+- [ ] JSONL
+- [ ] JSON
+- [ ] YML
+- [ ] Scara Robotic Arms
+- [ ] Raspbian Bullseye
+- [ ] Raspian Buster
+- [ ] Raspbian
+- [ ] Arduino
+- [ ] OpenCv
+- [ ] Python Programming Language
+- [ ] Mind Maps
+- [ ] Admittance
+- [ ] Shunt impedance
+- [ ] Impedance
+- [ ] Resistance
+- [ ] Capacitance
+- [ ] Henrys
+- [ ] Cisco any connect
+- [ ] WebEx
+- [ ] Optical Recorrective Process Knowledge
+- [ ] Microscope
+- [ ] Oscilloscope
+- [ ] Circuit Trouble Shooting
+- [ ] USB Controllers
+- [ ] Laplace transform
+- [ ] Fovea transform
+- [ ] Marlab and arduino
+- [ ] House Plant Recognition
+- [ ] Electrical Repair
+- [ ] Lab Work
+- [ ] Electrical Probing
+- [ ] Generics
+- [ ] Dynamic_binding
+- [ ] Three Phase Power
+- [ ] inductance
+- [ ] Resistant
+- [ ] Recursive Functions
+- [ ] Persuasive Writing
+- [ ] Internet_of_Things
+- [ ] Deadline Management
+- [ ] Data Science
+- [ ] Cloud Services
+- [ ] Forecasting
+- [ ] Statistical Analysis
+- [ ] Information Processing
+- [ ] Interpreting
+- [ ] Researching
+- [ ] Calculating
+- [ ] Modeling
+- [ ] Graphing
+- [ ] Hierarchical relationships
+- [ ] Polymorphism
+- [ ] Web Design
+- [ ] Typography
+- [ ] User Interface Development
+- [ ] Graphic Design
+- [ ] Iullustration
+- [ ] Sketching
+- [ ] Volunteer
+- [ ] Writing
+- [ ] Speaking
+- [ ] Translating
+- [ ] operating equipment
+- [ ] programming
+- [ ] coding
+- [ ] adapting
+- [ ] troubleshooting
+- [ ] goal-setting
+- [ ] Envisioning
+- [ ] Mentoring
+- [ ] Evidence Collection
+- [ ] Evidence Recall
+- [ ] Assessing
+- [ ] Brainstorming
+- [ ] Deductive Reasoning
+- [ ] Cost-benefit analyzing
+- [ ] Creative Thinking
+- [ ] Conceptual Thinking
+- [ ] Evaluation
+- [ ] Inference
+- [ ] Problem-solving
+- [ ] Observation
+- [ ] Reliability
+- [ ] Empathy
+- [ ] Flexibility
+- [ ] Networking
+- [ ] Caring
+- [ ] Compassion
+- [ ] Motivating
+- [ ] Coaching
+- [ ] Conflict Management
+- [ ] Positivity
+- [ ] Patience
+- [ ] Negotiating
+- [ ] Nonverbal Communication
+- [ ] Summarizing
+- [ ] Documenting
+- [ ] Reporting
+- [ ] Open-mindedness
+- [ ] Teaching
+- [ ] Text Editing
+- [ ] Written Communication
+- [ ] Storytelling
+- [ ] Active Listening
+- [ ] audible signals
+- [ ] video signals
+- [ ] image signals
+- [ ] Frequency Domain Circuit Realization
+- [ ] Frequency Domain Transfer Functions
+- [ ] Low Pass Filters
+- [ ] High Pass Filters
+- [ ] Operational-Amplifier Negative Feed Back
+- [ ] Inverting Amplifier Configurations
+- [ ] Non-Inverting Amplifier Configurations
+- [ ] Integrating Amplifier Configurations
+- [ ] Bode Plotting
+- [ ] MATLAB Plotting
+- [ ] Code Linters
+- [ ] Code Styling
+- [ ] Nondestructive Evaluation
+- [ ] Continuous Integration
+- [ ] Unit Test Driven Development
+- [ ] API Interactions
+- [ ] Project Presentation
+- [ ] Robotic Programming
+- [ ] Open Source Programming
+- [ ] Code Maintenance
+- [ ] Neovide Editor
+- [ ] Object Oriented Programming
+- [ ] Lua Programming Language
+- [ ] Runtime Comparison
+- [ ] Neovim Editor
+- [ ] Svelte Web Frame Work
+- [ ] Derivation
+- [ ] Integration
+- [ ] Binary operators
+- [ ] Rust programming language
+- [ ] Primitive programming types
+- [ ] Branch lees programming
+- [ ] merge sort
+- [ ] Insertion sort
+- [ ] Selection sort
+- [ ] GitHub actions
+- [ ] Bug tracking
+- [ ] Web data stores
+- [ ] Type casting
+- [ ] Scientific reporting
+- [ ] Algorithm optimization
+- [ ] Digital circuit analysis
+- [ ] Analog circuit analysis
+- [ ] Per phase power
+- [ ] Transfer functions
+- [ ] C# programming language
+- [ ] Matlab functions
+- [ ] Typescript programming language
+- [ ] Programming language knowledge
+- [ ] Algorithmic time complexity
+- [ ] Differential equations
+- [ ] Calculus
+- [ ] Algorithms
+- [ ] Essay writing
+- [ ] Code reports
+- [ ] Classical physics
+- [ ] Large scale knowledge consum p . mation l
+- [ ] Time documentation
+- [ ] Surfing keys extension
+- [ ] Java programming language
+- [ ] JavaScript programmingl language
+- [ ] Vivaldi browser
+- [ ] Firefox browser
+- [ ] Chrome browser
+- [ ] Microsoft automate
+- [ ] Matlab IDE
+- [ ] Android Studio
+- [ ] Matlab deep learning toolbox
+- [ ] Mat-lab packages
+- [ ] Matlab programming language
+- [ ] Ltspice
+- [ ] Python shebang usage
+- [ ] Fedora Linux
+- [ ] Carla car simulator
+- [ ] NIm programming language
+- [ ] Anaconda Python environments
+- [ ] Debian Linux
+- [ ] Amazon web buckets
+- [ ] Microsoft azure
+- [ ] Microsoft word
+- [ ] Latex
+- [ ] Obsidian API
+- [ ] Npm packages
+- [ ] Python packages
+- [ ] Windows docker throttling issue resolution
+- [ ] Docker
+- [ ] Red hat Linux
+- [ ] Github Actions
+- [ ] Data Management
+- [ ] Computer Simulations
+- [ ] Transfer Function Derivation
+- [ ] Sineusoidal Analysis of Circuits
+- [ ] Three Phase Power
+- [ ] Communication
+- [ ] Time Management
+- [ ] Analysis of the diffusion of innovations
+- [ ] Python Environments
+- [ ] Unit Testing
+- [ ] JUnit Testing
+- [ ] SSH Keys
+- [ ] SSH
+- [ ] RetroPie
+- [ ] Raspberry Pi
+- [ ] Intel OpenVino
+- [ ] FPGA
+- [ ] Graphic Processing Units
+- [ ] Parallel Computing
+- [ ] Python Threading Library
+- [ ] Selection Sorting Algorithm
+- [ ] Insertion Sorting Algorithm
+- [ ] Merge Sorting Algorithm
+- [ ] Sorting Algorithms
+- [ ] Realms Databases
+- [ ] Knowledge Management Systems
+- [ ] Google Colab Notebooks
+- [ ] Writing
+- [ ] Tabby Terminal
+- [ ] Hyper Terminal
+- [ ] Git Bash
+- [ ] Windows Powershell
+- [ ] Visual Studio Code IDE
+- [ ] NDE
+- [ ] Literacy
+- [ ] Report Writing
+- [ ] Code Reviews
+- [ ] Continuous Integration
+- [ ] CLI
+- [ ] VSCODE IDE
+- [ ] Eclipse IDE
+- [ ] C Programming Language
+- [ ] C# Programming Language
+- [ ] Java Programming Language
+- [ ] HTML
+- [ ] CSS
+- [ ] PID Control Systems
+- [ ] PopperJS
+- [ ] Electrical Charge
+- [ ] Conductance
+- [ ] Shunt Impedencr
+- [ ] Admittance
+- [ ] Resistance
+- [ ] Transfer Functions
+- [ ] Circuit Design
+- [ ] Ohm’s Las
+- [ ] Korchoffs Current Law
+- [ ] Kiechoffs Voltage Law
+- [ ] Noninverting amplifier circuits
+- [ ] Inverting Amplifoers
+- [ ] Transient Response of Circuit
+- [ ] Active Circuit Components
+- [ ] Conplex Impedence
+- [ ] Node Voltage Equations
+- [ ] s-Domain
+- [ ] Laplace Transforms
+- [ ] LTSpice
+- [ ] Web Design
+- [ ] Hunan Machine Interaction
+- [ ] Interface Design
+- [ ] Github Project Management
+- [ ] Github Pages
+- [ ] Application of Computer Science
+- [ ] Applications of Power Distribution
+- [ ] Applications of Electrical Eningeeering
+- [ ] Power Engineering
+- [ ] Big O Notation
+- [ ] Github
+- [ ] GIT
+- [ ] Power Distribution
+- [ ] Power Generation
+- [ ] Second Order Low Pass Filter
+- [ ] Second Order High Pass Filter
+- [ ] Second Order Filters
+- [ ] High Pass Filters
+- [ ] Low-Pass Filters
+- [ ] Impulsr Responses
+- [ ] Systems
+- [ ] Algorithms
+- [ ] Docker Virtual Machines
+- [ ] Obsidian MD
+- [ ] VIM
+- [ ] NCurses TUI
+- [ ] Interfaces in Java
+- [ ] Generics
+- [ ] Generic Classes
+- [ ] Abstract Classes
+- [ ] Inheiritance
+- [ ] Polymorphism
+- [ ] Svelte Programming
+- [ ] C Programming Language
+- [ ] Java Programming Language
+- [ ] C# Programming Language
+- [ ] Conda Environments
+- [ ] Python
+- [ ] Typescript
+- [ ] Markdown
+- [ ] Eclipse
+- [ ] VSCode
+- [ ] Neovim
+- [ ] Windows Subsystem for Linux
+- [ ] Ubuntu Linux
+- [ ] Kali Linux
+- [ ] Linux
+
+
+## Skill attribute sandwitch<br>Skillwitch
+
+- [ ] Related Skills
+- [ ] Skill name
+- [ ] Skill description
+- [ ] Academics (list)
+- [ ] Projects
+- [ ] Contact about project
+- [ ] Repositories
+- [ ] Personal skill note
+- [ ] Contact about using this skill for you Button
+- [ ] Rating
+
+
+## tags
+
+- [ ] Theoretical
+- [ ] File_Binary_Format
+- [ ] Programming Language
+- [ ] Analog Systems
+- [ ] Physics
+- [ ] Analog Circuit
+- [ ] Software
+- [ ] Machine Learning
+- [ ] Power Systems
+- [ ] Collaboration
+- [ ] Electrical Engineering
+- [ ] Computer Science
+- [ ] Hardware
+- [ ] Organization
+- [ ] Optimization
+- [ ] Digital Systems
+- [ ] Programming Library
+- [ ] Productivity
+- [ ] Applications_Electrical_Engineering
+- [ ] Software_Developent
+- [ ] word_processing
+- [ ] communication_skills
+- [ ] soft_skills
+- [ ] robotics
+- [ ] industry
+- [ ] automation
+- [ ] classical_physics
+- [ ] organization
+- [ ] reading
+- [ ] mathematics
+- [ ] computer science
+- [ ] electrical engineering
+- [ ] applied_physics
+- [ ] programming language library/package
+- [ ] github
+- [ ] analog
+- [ ] binary
+- [ ] digital
+- [ ] physical phenomenon
+- [ ] programming language
+- [ ] hardware
+- [ ] software
+
+
+***
+
+## Archive
+
+- [ ] Machine Learning
+- [ ] Power Systems
+- [ ] Collaboration
+- [ ] Computer Science
+- [ ] Electrical Engineering
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic","new-note-template":"Meta/Page Templates/333-Things/skill(template).md","new-note-folder":"Projects/portfolio/source/skills/public/Evidence"}
+```
+%%
